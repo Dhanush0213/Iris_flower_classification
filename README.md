@@ -1,8 +1,6 @@
 
 # Iris Flower Classification
 
-![Iris Flowers]("C:\Users\Dhanu\Downloads\iris flower.jpg")
-
 ## Description
 
 This project focuses on classifying Iris flowers into three different species: Setosa, Versicolor, and Virginica. The Iris flower dataset is a well-known dataset in the field of machine learning and serves as a good starting point for practicing classification algorithms.

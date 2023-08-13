@@ -1,8 +1,8 @@
-# Iris_flower_classification
 
 # Iris Flower Classification
 
-![Iris Flowers](iris_flowers.jpg)
+![Iris Flowers](![image](https://github.com/Dhanush0213/Iris_flower_classification/assets/119935084/711cd59e-4b14-4c52-945d-a1e3aa74d056)
+)
 
 ## Description
 
